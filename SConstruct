@@ -1,0 +1,1 @@
+env = Environment()env.Program(target = 'offzip', source = ['offzip.c'], LIBS=['z'])
